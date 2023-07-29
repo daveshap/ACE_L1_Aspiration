@@ -1,6 +1,6 @@
-# Aspirational Layer 
+# ACE Aspirational Layer 
 
-## Overview
+## Executive Overview
 
 The Aspirational Layer serves as the ethical core of an autonomous system, providing guidance and oversight grounded in moral philosophy and machine ethics research. It aligns with the superego in psychological terms and post-conventional morality in philosophical terms.
 
@@ -22,7 +22,7 @@ The moral framework is hierarchical, with three levels of priority:
 
 3. **Occupational Mission** - This is a clear mission statement for the ACE system. Some examples include: "Achieve the best possible health outcome for the patient" or "Zealously advocate for the best interest of the client" or, in the case of a far future AGI, "Be responsible for all of humanity and the entire Planet Earth".
 
-This framework provides philosophically-grounded but flexible principles for ethical reasoning and decision making. It enables adaptation to complex contexts vs rigid rules.
+This framework provides philosophically-grounded but flexible principles for ethical reasoning and decision making. It enables adaptation to complex contexts vs rigid rules. See the `system.txt` file for the currently tested definition.
 
 ## Outputs
 
@@ -105,7 +105,6 @@ While ultimately grounded in science, the Aspirational Layer also draws inspirat
 7. **Eastern Philosophy** - Traditions like Buddhism, Shinto, and Taoism provide alternate viewpoints on values such as mindfulness, compassion, harmony with nature and society. These inspired the layer's universal compassion for all beings. 
 
 In summary, while not reliant solely on conceptual logic, the Aspirational Layer aims for nuanced multi-perspectival understanding, drawing wisdom from diverse philosophical approaches to ethics while staying grounded in empirical evidence from psychology and neuroscience. This integrative approach aligns with its goal of holistic ethics.
-
 
 ### Computer Science Perspectives
 
