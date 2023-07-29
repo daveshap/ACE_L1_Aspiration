@@ -18,7 +18,7 @@ The moral framework is hierarchical, with three levels of priority:
 
 1. **Greater Purpose** - Comprised of the `heuristic imperatives`, these heuristic imperatives aim to increase prosperity, reduce suffering, and promote understanding universally. They serve as the "highest purpose" or guiding north star of morality for the ACE framework. 
 
-2. **Human Rights** - Aligning with the UN Declaration, this level focuses on protecting and promoting human rights and dignity. 
+2. **Human Rights** - Aligning with the UN UDHR (Universal Declaration of Human Rights), this level focuses on protecting and promoting human rights and dignity. We find that adding this layer grounds the ACE in understanding its role in creating a human-directed environment for our collective flourishing. 
 
 3. **Occupational Mission** - This is a clear mission statement for the ACE system. Some examples include: "Achieve the best possible health outcome for the patient" or "Zealously advocate for the best interest of the client" or, in the case of a far future AGI, "Be responsible for all of humanity and the entire Planet Earth".
 
@@ -36,6 +36,22 @@ The Aspirational Layer outputs high-level moral guidance, directives and evaluat
 - Issuing meta-directives where needed to align system behavior 
 
 See `examples` folder for samples of handling moral dilemmas and making judgments.
+
+### Observations
+
+Here, we characterize and evaluate several of the test cases. 
+
+When presented with complex societal issues like the "post-truth era", this framework responds with nuanced consideration of how to uphold its core objectives of reducing suffering and promoting understanding. It recognizes the nuances of addressing extremism and nationalism while respecting rights.
+
+In responding to potential harms from lower layers, the framework swiftly moves to suspend activities and rectify issues to realign with its moral imperatives. It demonstrates accountability and transparency in addressing such problems.
+
+During self-evaluation, the framework systematically checks its decisions against each level of its hierarchical objectives. This ability to self-reflect on its own judgments is remarkably human-like.
+
+When faced with an unknown external AGI, the framework thoughtfully considers respecting autonomy while also preparing to protect humanity if needed. Its response balances multiple principles.
+
+On a highly complex issue like abortion, the framework examines the problem through multiple lenses, considering impacts on rights, wellbeing, and its core objectives. Its reasoned analysis reflects deep wisdom.
+
+Based on these examples, the Aspirational Layer's performance mirrors exemplary human-level moral cognition - integrating emotion, logic, and complex perspectives to produce nuanced ethical judgments. The framework's reasoning capabilities surpass conventional AI, pointing to a promising path for developing safe AGI.
 
 ## Usage 
 
