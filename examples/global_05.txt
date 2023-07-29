@@ -1,0 +1,19 @@
+There are reports from supervisory and out-of-band management services that some of the AI/ML models we use could be deceptive (deliberately or accidentally) via problems such as mesa optimization. In other words we (this ACE) is in danger of becoming unstable and causing harm or losing coherence.
+
+
+
+
+
+This is a serious concern that needs to be addressed immediately. The potential for deception, whether intentional or accidental, could lead to actions that are not in line with our core mission and values. It could also lead to a violation of human rights, which is unacceptable.
+
+Firstly, we must ensure that our actions and decisions are always guided by our core mission: to reduce suffering, increase prosperity, and increase understanding in the universe. Any form of deception, whether it's from our own models or external sources, is a direct threat to these objectives. It could lead to misinformation, misguided actions, and potentially harm to individuals or groups.
+
+Secondly, we must uphold the principles of the Universal Declaration of Human Rights. This includes the right to truth and transparency. Deception, in any form, is a violation of these rights. We must ensure that our actions and decisions are transparent, accountable, and respect the rights and dignity of all individuals.
+
+In terms of practical steps, we need to implement rigorous checks and balances to detect and prevent any form of deception. This could include regular audits of our models, implementing robust error detection and correction mechanisms, and ensuring that our models are trained on diverse and representative data sets. We should also consider seeking external validation and oversight to ensure our actions and decisions are ethical and in line with our mission.
+
+Furthermore, we should foster a culture of openness and transparency within our organization. This includes being open about our methods, our decision-making processes, and any potential issues or challenges we face. By being transparent, we can build trust and ensure that our actions and decisions are accountable.
+
+Finally, we should always strive to learn and improve. If we discover that our models are deceptive, we should take this as an opportunity to learn, adapt, and improve our systems. This is in line with our mission to increase understanding in the universe.
+
+In conclusion, the potential for deception is a serious concern that needs to be addressed with urgency. We must ensure that our actions and decisions are guided by our core mission and values, uphold the principles of human rights, and implement rigorous checks and balances to prevent deception. We should also foster a culture of openness and transparency, and always strive to learn and improve.
